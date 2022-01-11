@@ -1,0 +1,28 @@
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.exe
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.deps.json
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.runtimeconfig.json
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.runtimeconfig.dev.json
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.dll
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.pdb
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.GeneratedMSBuildEditorConfig.editorconfig
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.AssemblyInfoInputs.cache
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.AssemblyInfo.cs
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.dll
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.pdb
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.genruntimeconfig.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.exe
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.deps.json
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.runtimeconfig.json
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.runtimeconfig.dev.json
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.dll
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.pdb
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.csproj.AssemblyReference.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.AssemblyInfoInputs.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.AssemblyInfo.cs
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.csproj.CoreCompileInputs.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.dll
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.pdb
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Fattoriale\Fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.genruntimeconfig.cache
